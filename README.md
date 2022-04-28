@@ -15,7 +15,7 @@ Bash script to find live hosts on current network.
 ### Installing
 
 ```
-git clone "link"
+git clone https://github.com/muhammet0can1namli/LiveHostScanner.git
 ```
 
 ### Executing program
