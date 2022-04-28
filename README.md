@@ -33,7 +33,7 @@ chmod +x live_host_scanner.sh
 
 ## Authors
 
-[@muhammet0can1namli](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/)
+[Muhammet Can Namli](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/)
 
 ## Help
 This is my first bash scripting project. If you have suggestions and recommendations, please contact me.
