@@ -25,7 +25,7 @@ git clone https://github.com/MuhammetCanNamli/LiveHostScanner.git
 chmod +x live_host_scanner.sh
 ```
 
-*Then it can be run via terminal.
+* Then it can be run via terminal.
 ```
 ./live_host_scanner.sh
 ```
