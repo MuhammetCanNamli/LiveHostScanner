@@ -10,7 +10,7 @@ Bash script to find live hosts on current network.
 
 ### Dependencies
 
-* A UNIX-based operating system
+* A linux based operating system
 
 ### Installing
 
