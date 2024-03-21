@@ -35,5 +35,8 @@ chmod +x live_host_scanner.sh
 
 [Muhammet Can Namli](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/)
 
+## Supporter
+I would like to express my special thanks to [İbrahim Sel](https://github.com/ibrahimsel).
+
 ## Help
 This is my first bash scripting project. If you have suggestions and recommendations, please contact me.
